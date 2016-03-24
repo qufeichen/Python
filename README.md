@@ -1,2 +1,2 @@
 # Python
-simple python programs
+simple Python programs (using Python 3)
